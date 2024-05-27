@@ -2,7 +2,18 @@
 
 Morning Brew is a mobile application that provides users with detailed nutritional information for various coffee and tea beverages, including caffeine content and calorie counts. The app is built using Swift and SwiftUI.
 
-![App Screenshot](images/1.png)
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="images/1.png" alt="Screenshot 1" width="300"/>
+    <img src="images/2.png" alt="Screenshot 2" width="300"/>
+    <img src="images/3.png" alt="Screenshot 3" width="300"/>
+    <img src="images/4.png" alt="Screenshot 4" width="300"/>
+    <img src="images/5.png" alt="Screenshot 5" width="300"/>
+    <img src="images/6.png" alt="Screenshot 6" width="300"/>
+    <img src="images/7.png" alt="Screenshot 7" width="300"/>
+</div>
+
 ## Features
 - Detailed nutritional information for beverages
 - User-friendly interface
